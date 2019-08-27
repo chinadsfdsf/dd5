@@ -1,0 +1,140 @@
+baseURL = "/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "ChinaDSF(en)"
+theme = "meghna-hugo"
+summaryLength = 10
+
+[taxonomies]
+  author = "JamesD"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About Us"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Service"
+    URL = "services"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Portfolio"
+    URL = "portfolio"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Team"
+    URL = "our-team"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Pricing"
+    URL = "pricing"
+    weight = 6
+
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 7
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
+[params]
+home= "Home"
+#logo = "images/logo.png"
+logo = "/logoMzjgzx01.jpg"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "The China Democratic Salvation Front(English Version01)"
+author = "JamesD2"
+# Google Analitycs
+googleAnalitycsID = "James_Your_ID"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    #bgImage = "images/slider/hero-area.jpg"
+    #bgImage = "/mzjgzx_1500x500.jpg"
+    bgImage = "/mzjgzx_1900x1000.jpg"
+    icon = "tf-ion-play"
+    heading = "The China Democratic Salvation Front(English Version02)"
+    content= "The China Democratic Salvation Front, was founded on December, 12, 2017 by Mr. Baiqiao Tang with other chinese dissidents.  The purpose of this organization is to promote the democratic revolution in China in order to end the CCP tyrannic regi me as early as possible."
+    btn = true
+    btnText="Explore Us"
+    btnURL="#services"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "Great Design & Incredible Features"
+    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    btnURL = "#"
+    btnText = "Start a project with us"
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "320"
+
+        [[params.counter.counterItem]]
+        title = "Projects completed"
+        icon = "tf-ion-archive"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "95"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
+
+    # footer
+    [params.footer]
+        copyright = "The China Democratic Salvation Front Team"
+        copyrightURL = "http://www.chinadsf.org"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "https://www.facebook.com/mzjgzx"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "https://twitter.com/mzjgzx"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-google-outline"
+        url = "mailto:minzhujiuguozhenxian@gmail.com"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-youtube"
+        url = "https://www.youtube.com/channel/UCeBfK3zzgqDQLhBovmguOuQ"
+
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-linkedin"
+        #url = "#"
+
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-dribbble-outline"
+        #url = "#"
+
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-pinterest-outline"
+        #url = "#"
