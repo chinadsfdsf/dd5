@@ -235,29 +235,24 @@ anchor = "smart"
   # used in layouts/partials/footer.html
   # uses markdownify
   aboutUs   = '''
-Vel illum **dolore** eu
+About_line_01
 
-  * feugiat nulla
-  * facilisis at vero.
+  * About_line_02
+  * About_line_03
 
-Nam vestibulum accumsan nisl.
+About_line_04
 
               '''
 
   address   = '''
-**nobis eleifend**          
-**Soluta nobis eleifend**   
-illum dolore eu feugiat     
-3612 Steffisburg            
-consectetuer adipiscing     
-
-**Switzerland**
+The_assress_of_ChinaDSF01
+The_assress_of_ChinaDSF02
               '''
   footerContactButton = "contact/index.md"
 
   # used in layouts/partials/footer.bottom.html
-  bottomLeft  = "Copyright (c) 2019, *lobortis nisl* ut aliquip ex ea commodo consequat"
-  bottomRight = 'created with [Hugo](https://gohugo.io) '
+  bottomLeft  = "Copyright (c) 2019, The_China_DSF_copyright_01"
+  bottomRight = 'created with [ChinaDSF](https://www.chinadsf.org) '
 
 
   # colors
