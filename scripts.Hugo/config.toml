@@ -176,19 +176,25 @@ anchor = "smart"
   url    = "/faq"
   pre    = "far fa-question-circle"
 
+[[menu.main]]
+  weight = 7
+  name   = "allCatalog"
+  url    = "/categories/"
+  pre    = "allCatalog"
+
 
 # right aligned
-[[menu.topbar]]
-  weight   = 1
-  name     = "GitHub"
-  url      = "https://github.com/it-gro/hugo-theme-w3css-basic"
-  pre      = "fab fa-github"
+#[[menu.topbar]]
+#  weight   = 1
+#  name     = "GitHub"
+#  url      = "https://github.com/it-gro/hugo-theme-w3css-basic"
+#  pre      = "fab fa-github"
 
-[[menu.topbar]]
-  weight   = 2
-  name     = "GitLab"
-  url      = "https://gitlab.com/it-gro"
-  pre      = "fab fa-gitlab"
+#[[menu.topbar]]
+#  weight   = 2
+#  name     = "GitLab"
+#  url      = "https://gitlab.com/it-gro"
+#  pre      = "fab fa-gitlab"
 
 #[[menu.topbar]]
 #  weight   = 3
