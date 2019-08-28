@@ -180,7 +180,13 @@ anchor = "smart"
   weight = 7
   name   = "MAP"
   url    = "/categories/"
-  pre    = "allCatalog"
+  pre    = "Map"
+
+[[menu.main]]
+  weight = 8
+  name   = "TR"
+  url    = "/tr/index.html"
+  pre    = "Tr"
 
 
 # right aligned
