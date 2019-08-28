@@ -12442,6 +12442,11 @@
   </url>
   
   <url>
+    <loc>/tr/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
   </url>
   
