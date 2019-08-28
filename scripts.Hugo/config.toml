@@ -178,7 +178,7 @@ anchor = "smart"
 
 [[menu.main]]
   weight = 7
-  name   = "allCatalog"
+  name   = "MAP"
   url    = "/categories/"
   pre    = "allCatalog"
 
