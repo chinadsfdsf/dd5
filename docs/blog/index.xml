@@ -6,10 +6,23 @@
     <description>Recent content in Blogs on hugo-theme-w3css-basic exampleSite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2019 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2019 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>(Name of the work 01 : 2019-08-28T18:25:22&#43;05:30</title>
+      <link>/blog/2019/08/28/2019-08-28/</link>
+      <pubDate>Wed, 28 Aug 2019 18:25:22 +0530</pubDate>
+      
+      <guid>/blog/2019/08/28/2019-08-28/</guid>
+      <description>&lt;p&gt;Content of the work 01 : 2019-08-28T18:25:22+05:30&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/blog/post2/2019/08/28/2019-08-28.jpg&#34; alt=&#34;/blog/post2/2019/08/28/2019-08-28.jpg&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>(Name of the work 01 : 2019-08-27T18:25:22&#43;05:30</title>
@@ -124,19 +137,6 @@
       <description>&lt;p&gt;Content of the work 01 : 2019-08-01T18:25:22+05:30&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/blog/post2/2019/08/01/2019-08-01.jpg&#34; alt=&#34;/blog/post2/2019/08/01/2019-08-01.jpg&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>(Name of the work 01 : 2019-07-28T18:25:22&#43;05:30</title>
-      <link>/blog/2019/07/28/2019-07-28/</link>
-      <pubDate>Sun, 28 Jul 2019 18:25:22 +0530</pubDate>
-      
-      <guid>/blog/2019/07/28/2019-07-28/</guid>
-      <description>&lt;p&gt;Content of the work 01 : 2019-07-28T18:25:22+05:30&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/blog/post2/2019/07/28/2019-07-28.jpg&#34; alt=&#34;/blog/post2/2019/07/28/2019-07-28.jpg&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
     </item>

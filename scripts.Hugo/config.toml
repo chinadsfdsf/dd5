@@ -27,7 +27,7 @@ summaryLength = 70
 paginate =  6
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "it-gro-github-io-hugo-theme-w3css-basic-github-io"
+disqusShortname = "chinadsf"
 
 # https://gohugo.io/content-management/syntax-highlighting/
 pygmentsUseClassic            = false
@@ -205,7 +205,8 @@ anchor = "smart"
 [[menu.topbar]]
   weight   = 5
   name     = "Email"
-  url      = "#address"
+#  url      = "#address"
+  url      = "mailto:minzhujiuguozhenxian@gmail.com"
 # url      = "mailto:info@example.com"
   pre      = "fas fa-envelope"
 
@@ -556,8 +557,10 @@ The_assress_of_ChinaDSF02
 
   # used in partials/contact.form.html
   # Enable the contact form by entering your Formspree.io email
-  formspree            = "formspree.io"
-  email                = "info@example.com"
+  #formspree            = "formspree.io"
+  formspree            = "chinadsf.org"
+  #email                = "info@example.com"
+  email                = "minzhujiuguozhenxian@gmail.com"
   contactFormInclEmail = true
 
   # disqus (theme)
@@ -565,12 +568,12 @@ The_assress_of_ChinaDSF02
 
   # used in partials/blog.disqus-button.html
   # set to false if you dont want to have a button "show comments", but show the comments right away
-  disqusButtonShow      = false
+  disqusButtonShow      = true
   # set to true, if you want to show the count of comments within the "show comments" button
   # fires an async request to disqus.com/count.js
-  disqusButtonShowCount = false
+  disqusButtonShowCount = true
   # set to true if you dont want a GDPR agreement with the visitor
-  # disqusSkipAgree = true
+  disqusSkipAgree = true
 
   # date format (blog) is created using:
   #  layouts/partials/main.blog.date.html
