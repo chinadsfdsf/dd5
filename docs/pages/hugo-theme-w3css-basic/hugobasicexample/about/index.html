@@ -194,6 +194,8 @@ It makes use of a variety of open source projects including:
     new google.translate.TranslateElement(
       {
           pageLanguage: 'en-us'
+          , layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+          , includedLanguages: 'zh-TW,zh-CN,en'
       }
       , 'google_translate_element'
     );
