@@ -29,8 +29,8 @@
       <guid>/pages/showcase/image-processing-with-hugo/</guid>
       <description>&lt;p&gt;Image page resources can be resized and cropped.
 This only works for
-&lt;a href=&#34;https://gohugo.io/content-management/image-processing/#the-image-page-resource&#34; target=&#34;_blank&#34;&gt;images&lt;/a&gt;
-which are &lt;a href=&#34;https://gohugo.io/content-management/page-resources/&#34; target=&#34;_blank&#34;&gt;page
+&lt;a href=&#34;hddps://gohugo.io/content-management/image-processing/#the-image-page-resource&#34; target=&#34;_blank&#34;&gt;images&lt;/a&gt;
+which are &lt;a href=&#34;hddps://gohugo.io/content-management/page-resources/&#34; target=&#34;_blank&#34;&gt;page
 resources&lt;/a&gt;, not for images
 in the /static folder.
 This theme provides a shortcode &lt;code&gt;res-figure&lt;/code&gt;  for page resource image processing.&lt;/p&gt;</description>

@@ -28,7 +28,7 @@
       <guid>/pages/hugo-theme-w3css-basic/page-shortcodes/</guid>
       <description>You can extend Hugo’s built-in shortcodes by creating your own using the same templating syntax as that for single and list pages.
 Shortcodes are a means to consolidate templating into small, reusable snippets that you can embed directly inside of your content. In this sense, you can think of shortcodes as the intermediary between page and list templates and basic content files.
-https://gohugo.io/templates/shortcode-templates
+hddps://gohugo.io/templates/shortcode-templates
 
 Shortcodes in this Theme for W3.</description>
     </item>
@@ -61,8 +61,8 @@ Shortcodes in this Theme for W3.</description>
       <guid>/pages/showcase/image-processing-with-hugo/</guid>
       <description>&lt;p&gt;Image page resources can be resized and cropped.
 This only works for
-&lt;a href=&#34;https://gohugo.io/content-management/image-processing/#the-image-page-resource&#34; target=&#34;_blank&#34;&gt;images&lt;/a&gt;
-which are &lt;a href=&#34;https://gohugo.io/content-management/page-resources/&#34; target=&#34;_blank&#34;&gt;page
+&lt;a href=&#34;hddps://gohugo.io/content-management/image-processing/#the-image-page-resource&#34; target=&#34;_blank&#34;&gt;images&lt;/a&gt;
+which are &lt;a href=&#34;hddps://gohugo.io/content-management/page-resources/&#34; target=&#34;_blank&#34;&gt;page
 resources&lt;/a&gt;, not for images
 in the /static folder.
 This theme provides a shortcode &lt;code&gt;res-figure&lt;/code&gt;  for page resource image processing.&lt;/p&gt;</description>
