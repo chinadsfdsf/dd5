@@ -12,16 +12,16 @@
     
     
     <item>
-      <title>This Theme Readme (github)</title>
+      <title> A101_200048 </title>
       <link>/pages/hugo-theme-w3css-basic/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pages/hugo-theme-w3css-basic/readme/</guid>
-      <description>This content is created using: {{&amp;lt; readfile &amp;#34;content/README.md&amp;#34; &amp;#34;true&amp;#34; &amp;gt;}}  See more here: This Theme Shortcodes&amp;nbsp; https://marstool.github.io/ww dynsite00 = &amp;ldquo;https://www.jjj123.com&amp;rdquo; dynsite01 = &amp;ldquo;https://mp3s.jjj123.com&amp;rdquo; </description>
+      <description>This content is created using: {{&amp;lt; readfile &amp;#34;content/README.md&amp;#34; &amp;#34;true&amp;#34; &amp;gt;}}  See more here: https://marstool.github.io/ww dynsite00 = &amp;ldquo;https://www.jjj123.com&amp;rdquo; dynsite01 = &amp;ldquo;https://mp3s.jjj123.com&amp;rdquo; </description>
     </item>
     
     <item>
-      <title>This Theme Shortcodes</title>
+      <title> A101_200049 </title>
       <link>/pages/hugo-theme-w3css-basic/page-shortcodes/</link>
       <pubDate>Wed, 22 Nov 2017 07:41:52 +0100</pubDate>
       
@@ -34,7 +34,7 @@ Shortcodes in this Theme for W3.</description>
     </item>
     
     <item>
-      <title>Gallery with image processing</title>
+      <title> A101_200004 </title>
       <link>/pages/showcase/gallery-01/</link>
       <pubDate>Tue, 08 May 2018 22:25:44 +0200</pubDate>
       
@@ -44,7 +44,7 @@ Shortcodes in this Theme for W3.</description>
     </item>
     
     <item>
-      <title>Attachments</title>
+      <title> A101_200008 </title>
       <link>/pages/showcase/attach-page-resources/</link>
       <pubDate>Mon, 09 Apr 2018 13:38:46 +0200</pubDate>
       
@@ -54,7 +54,7 @@ Shortcodes in this Theme for W3.</description>
     </item>
     
     <item>
-      <title>Image Processing (`res-figure`)</title>
+      <title> A101_200012 </title>
       <link>/pages/showcase/image-processing-with-hugo/</link>
       <pubDate>Fri, 06 Apr 2018 20:18:31 +0200</pubDate>
       
@@ -69,18 +69,18 @@ This theme provides a shortcode &lt;code&gt;res-figure&lt;/code&gt;  for page re
     </item>
     
     <item>
-      <title>Shortcode liti</title>
+      <title> A101_200010 </title>
       <link>/pages/showcase/liti-01/</link>
       <pubDate>Thu, 18 Jan 2018 20:01:00 +0100</pubDate>
       
       <guid>/pages/showcase/liti-01/</guid>
-      <description>liti: List by Title {{&amp;lt; liti &amp;#34;About Hugo&amp;#34; &amp;gt;}}  Here is the page with the title About Hugo&amp;nbsp;  {{&amp;lt; liti &amp;#34;pixabay.com&amp;#34; &amp;#34;in&amp;#34; &amp;gt;}}  Pages with pixabay.com in it&amp;rsquo;s title.
-Here they are: teaserpics (pixabay.com)&amp;nbsp; photocards (pixabay.com)&amp;nbsp; testimonials (pixabay.com)&amp;nbsp; clients (pixabay.com)&amp;nbsp; jumbotrons (pixabay.com)&amp;nbsp; All pages with hugo in it&amp;rsquo;s title {{&amp;lt; liti &amp;#34;hugo&amp;#34; &amp;#34;in&amp;#34; &amp;#34;i&amp;#34; &amp;#34;ul&amp;#34; &amp;gt;}}  Here they are:
-  Migrate to Hugo from Jekyll&amp;nbsp;  teaserpics (github.</description>
+      <description>liti: List by Title {{&amp;lt; liti &amp;#34;About Hugo&amp;#34; &amp;gt;}}  Here is the page with the title  {{&amp;lt; liti &amp;#34;pixabay.com&amp;#34; &amp;#34;in&amp;#34; &amp;gt;}}  Pages with pixabay.com in it&amp;rsquo;s title.
+Here they are: All pages with hugo in it&amp;rsquo;s title {{&amp;lt; liti &amp;#34;hugo&amp;#34; &amp;#34;in&amp;#34; &amp;#34;i&amp;#34; &amp;#34;ul&amp;#34; &amp;gt;}}  Here they are:
+  Really all pages with hugo in it&amp;rsquo;s title {{&amp;lt; liti &amp;#34;hugo&amp;#34; &amp;#34;in&amp;#34; &amp;#34;i&amp;#34; &amp;#34;ul&amp;#34; &amp;#34;all&amp;#34; &amp;#34;.Kind .</description>
     </item>
     
     <item>
-      <title>Code highlighting</title>
+      <title> A101_200006 </title>
       <link>/pages/showcase/code-01/</link>
       <pubDate>Mon, 08 Jan 2018 10:34:50 +0100</pubDate>
       
@@ -89,7 +89,7 @@ Here they are: teaserpics (pixabay.com)&amp;nbsp; photocards (pixabay.com)&amp;n
     </item>
     
     <item>
-      <title>Rob Pike - ‘Concurrency Is Not Parallelism’</title>
+      <title> A101_200002 </title>
       <link>/pages/showcase/video-02/</link>
       <pubDate>Fri, 05 Jan 2018 20:50:11 +0100</pubDate>
       
@@ -98,7 +98,7 @@ Here they are: teaserpics (pixabay.com)&amp;nbsp; photocards (pixabay.com)&amp;n
     </item>
     
     <item>
-      <title>Add a Theme (asciinema)</title>
+      <title> A101_200009 </title>
       <link>/pages/showcase/console-01/</link>
       <pubDate>Fri, 05 Jan 2018 20:38:50 +0100</pubDate>
       
@@ -107,7 +107,7 @@ Here they are: teaserpics (pixabay.com)&amp;nbsp; photocards (pixabay.com)&amp;n
     </item>
     
     <item>
-      <title>Hugo - Static Site Generator</title>
+      <title> A101_200003 </title>
       <link>/pages/showcase/video-01/</link>
       <pubDate>Sat, 16 Dec 2017 21:46:06 +0100</pubDate>
       

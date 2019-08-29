@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="hddp://www.w3.org/2005/Atom">
   <channel>
-    <title>About this Theme on hugo-theme-w3css-basic exampleSite</title>
+    <title> A101_200032  on hugo-theme-w3css-basic exampleSite</title>
     <link>/pages/hugo-theme-w3css-basic/</link>
-    <description>Recent content in About this Theme on hugo-theme-w3css-basic exampleSite</description>
+    <description>Recent content in  A101_200032  on hugo-theme-w3css-basic exampleSite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Nov 2017 07:42:26 +0100</lastBuildDate>
@@ -12,16 +12,16 @@
     
     
     <item>
-      <title>This Theme Readme (github)</title>
+      <title> A101_200048 </title>
       <link>/pages/hugo-theme-w3css-basic/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pages/hugo-theme-w3css-basic/readme/</guid>
-      <description>This content is created using: {{&amp;lt; readfile &amp;#34;content/README.md&amp;#34; &amp;#34;true&amp;#34; &amp;gt;}}  See more here: This Theme Shortcodes&amp;nbsp; https://marstool.github.io/ww dynsite00 = &amp;ldquo;https://www.jjj123.com&amp;rdquo; dynsite01 = &amp;ldquo;https://mp3s.jjj123.com&amp;rdquo; </description>
+      <description>This content is created using: {{&amp;lt; readfile &amp;#34;content/README.md&amp;#34; &amp;#34;true&amp;#34; &amp;gt;}}  See more here: https://marstool.github.io/ww dynsite00 = &amp;ldquo;https://www.jjj123.com&amp;rdquo; dynsite01 = &amp;ldquo;https://mp3s.jjj123.com&amp;rdquo; </description>
     </item>
     
     <item>
-      <title>This Theme Shortcodes</title>
+      <title> A101_200049 </title>
       <link>/pages/hugo-theme-w3css-basic/page-shortcodes/</link>
       <pubDate>Wed, 22 Nov 2017 07:41:52 +0100</pubDate>
       

@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Gallery with image processing</title>
+      <title> A101_200004 </title>
       <link>/pages/showcase/gallery-01/</link>
       <pubDate>Tue, 08 May 2018 22:25:44 +0200</pubDate>
       
@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>Attachments</title>
+      <title> A101_200008 </title>
       <link>/pages/showcase/attach-page-resources/</link>
       <pubDate>Mon, 09 Apr 2018 13:38:46 +0200</pubDate>
       
@@ -32,7 +32,7 @@
     </item>
     
     <item>
-      <title>Image Processing (`res-figure`)</title>
+      <title> A101_200012 </title>
       <link>/pages/showcase/image-processing-with-hugo/</link>
       <pubDate>Fri, 06 Apr 2018 20:18:31 +0200</pubDate>
       

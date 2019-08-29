@@ -1,5 +1,5 @@
 ---
-title:              "Rob Pike - ‘Concurrency Is Not Parallelism’"
+title: " A101_200002 "
 date:               2018-01-05T20:50:11+01:00
 icon:               "fab fa-vimeo"
 resImgTeaser:  teaserpics/gohugo.io/golang-a-closer-look.png

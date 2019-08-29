@@ -772,8 +772,8 @@ The_assress_of_ChinaDSF02
   enableFront    = true
   title    = "From our Blog"
   subtitle = '''
-Pellentesque habitant morbi tristique senectus et netus et malesuada
-fames ac.
+栏目  111111111111 1
+栏目  111111111111 2
              '''
 
 [params.seeMore]
@@ -786,8 +786,8 @@ fames ac.
   linkUrl   = "/pages"
   linkText  = "consectetuer adipiscing"
   subtitle  = '''
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper
-suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+栏目  22222222222 1
+栏目  22222222222 2
               '''
 
 [params.testimonials]
@@ -798,8 +798,8 @@ suscipit lobortis nisl ut aliquip ex ea commodo consequat.
   #enable  = false
   title    = "Testimonials"
   subtitle = '''
-Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam voluptua.
+栏目  33333333333 1
+栏目  33333333333 2
              '''
 
 [params.clients]
@@ -814,8 +814,8 @@ labore et dolore magna aliquyam erat, sed diam voluptua.
   imgMaxHeight  = "100px"
   title         = "Our Clients"
   subtitle      = '''
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-**molestie consequat**, vel illum dolore.
+栏目  44444444444 1
+栏目  44444444444 2
              '''
 
 [params.blog]
@@ -823,7 +823,8 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
   title    = "Blog"
   icon     = "fas fa-rss"
   subtitle = '''
-ultricies eget, tempor sit amet, ante
+栏目  55555555555 1
+栏目  55555555555 2
              '''
 
 [params.googleApiFonts.family]

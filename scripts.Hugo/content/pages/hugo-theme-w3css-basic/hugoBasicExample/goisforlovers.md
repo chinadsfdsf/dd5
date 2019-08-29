@@ -1,5 +1,6 @@
-+++
-title = "(Hu)go Template Primer"
+---
+title: " A101_200034 "
+---
 description = ""
 tags = [
     "go",
@@ -272,7 +273,7 @@ Here is the example front matter:
 
 ```
 ---
-title: "Permalinks"
+title: " A101_200034 "
 date: "2013-11-18"
 aliases:
   - "/doc/permalinks/"

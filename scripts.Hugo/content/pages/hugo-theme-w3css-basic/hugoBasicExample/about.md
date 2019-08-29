@@ -1,5 +1,6 @@
-+++
-title = "About Hugo"
+---
+title: " A101_200035 "
+---
 date = "2014-04-09"
 categories = [
     "Hugo Basic Example"

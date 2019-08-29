@@ -1,5 +1,5 @@
 ---
-title:              "Hugo - Static Site Generator"
+title: " A101_200011 "
 date:               2018-01-05T21:01:34+01:00
 icon:               "fab fa-youtube"
 resImgTeaser:  teaserpics/gohugo.io/hugo-dolor.png

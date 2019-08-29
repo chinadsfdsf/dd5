@@ -1,5 +1,5 @@
 ---
-title:              "Shortcode liti"
+title: " A101_200010 "
 date:               2018-01-18T20:01:00+01:00
 resImgTeaser:  teaserpics/gohugo.io/hugo-dolor.png
 icon:               "fas fa-search"

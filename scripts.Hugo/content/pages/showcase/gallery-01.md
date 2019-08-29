@@ -1,5 +1,5 @@
 ---
-title:               "Gallery with image processing"
+title: " A101_200004 "
 date:                2018-05-08T22:25:44+02:00
 resImgTeaser:        teaserpics/pixabay.com/paint-2985569_640.jpg
 teaserpicNotOnPage:

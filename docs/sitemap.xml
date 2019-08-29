@@ -12152,12 +12152,62 @@
   </url>
   
   <url>
-    <loc>/pages/folder20/estdui-fermentum/</loc>
+    <loc>/pages/folder20/folder21/folder211/rutrum/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/folder20/folder21/folder211/phasellus/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/folder20/folder21/nullam/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/folder20/folder21/vestibulum/</loc>
     <lastmod>2017-11-13T15:37:04+01:00</lastmod>
   </url>
   
   <url>
     <loc>/pages/folder20/felis-vel-velit/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/folder20/nam-asapien/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/folder20/vestibulum-convallis/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/folder20/magna-orci-ultrices/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/folder20/estdui-fermentum/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/folder20/neque-orci/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/folder10/malesuada-massa/</loc>
+    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pages/folder10/neque-nec/</loc>
     <lastmod>2017-11-13T15:37:04+01:00</lastmod>
   </url>
   
@@ -12182,32 +12232,7 @@
   </url>
   
   <url>
-    <loc>/pages/folder20/magna-orci-ultrices/</loc>
-    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/malesuada/</loc>
-    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/pages/folder10/malesuada-massa/</loc>
-    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/pages/folder20/nam-asapien/</loc>
-    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/pages/folder10/neque-nec/</loc>
-    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/pages/folder20/neque-orci/</loc>
     <lastmod>2017-11-13T15:37:04+01:00</lastmod>
   </url>
   
@@ -12217,22 +12242,7 @@
   </url>
   
   <url>
-    <loc>/pages/folder20/folder21/nullam/</loc>
-    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/pages/folder20/folder21/folder211/rutrum/</loc>
-    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/phasellus/</loc>
-    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/pages/folder20/folder21/folder211/phasellus/</loc>
     <lastmod>2017-11-13T15:37:04+01:00</lastmod>
   </url>
   
@@ -12248,16 +12258,6 @@
   
   <url>
     <loc>/categories/vestibulum/</loc>
-    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/pages/folder20/folder21/vestibulum/</loc>
-    <lastmod>2017-11-13T15:37:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/pages/folder20/vestibulum-convallis/</loc>
     <lastmod>2017-11-13T15:37:04+01:00</lastmod>
   </url>
   
@@ -12289,61 +12289,6 @@
   <url>
     <loc>/categories/hugo-basic-example/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/pages/hugo-theme-w3css-basic/hugobasicexample/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/pages/hugo-theme-w3css-basic/hugobasicexample/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/pages/hugo-theme-w3css-basic/hugobasicexample/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -12444,6 +12389,18 @@
   <url>
     <loc>/tr/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pages/hugo-theme-w3css-basic/hugobasicexample/goisforlovers/</loc>
+  </url>
+  
+  <url>
+    <loc>/pages/hugo-theme-w3css-basic/hugobasicexample/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/pages/hugo-theme-w3css-basic/hugobasicexample/hugoisforlovers/</loc>
   </url>
   
   <url>
